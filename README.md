@@ -13,15 +13,24 @@ Development Stack :
  Spring Data with JPA
  
 ********************************************
+
 Swager UI for testing and investigation 
+
 /swagger-ui/index.html#/
-*******************************************
-Docker File for container based execution 
 
 *******************************************
+
+Docker File for container based execution 
+.execute command on your terminal  ->" docker build . " 
+
+*******************************************
+
 Main APIs 
+
 *Irregation system
+
 *SensorDevice 
+
 *PlotLand 
  
 	
