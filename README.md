@@ -3,9 +3,9 @@ irrigation-sys
 The Irrigations systems provides REST APIs for integration purposes .
 *********************************************
 Development Stack :
-Java 17
-Spring Boot
-H2 Database
+\n Java 17
+\n Spring Boot
+\n H2 Database
 Spring Data with JPA
 ********************************************
 Swager UI for testing and investigation 
